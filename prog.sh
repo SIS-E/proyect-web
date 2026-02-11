@@ -1,5 +1,5 @@
 #programa prueba
-tput setaf 2
+tput setaf 4
 #solicita el primer numero
 
 read -p "Digita el Primer numero: " num1
