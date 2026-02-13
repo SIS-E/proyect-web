@@ -16,6 +16,6 @@ suma=$((num1 + num2))
 
 echo "La suma de $num1 y $num2 es: $suma"
 
-echo "Presiona ENTER para continuar.... esto es un bien programa"
+echo "Presiona ENTER para continuar.... esto es un buen programa"
 
  read
