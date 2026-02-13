@@ -1,4 +1,4 @@
 #esto es un saludo
-nombre="Sis"
+nombre="Quien seas"
 saludo="Hola $nombre"
 echo "$saludo"
