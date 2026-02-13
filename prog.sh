@@ -2,11 +2,11 @@
 tput setaf 2
 #solicita el primer numero
 
-read -p "Digita el Primer numero: " num1
+read -p "Digita el Primer numero sis: " num1
 
 #Solicitar el segundo numero
 
-read -p "Digita el Segundo numero: " num2
+read -p "Digita el Segundo numero sis: " num2
 
 #Realizar la suma usando la expansón aritmética
 
