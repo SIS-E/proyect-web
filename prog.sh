@@ -8,13 +8,13 @@ read -p "Digita el Primer numero: " num1
 
 read -p "Digita el Segundo numero: " num2
 
-#Realizar la resta usando la expansón aritmética
+#Realizar la suma usando la expansón aritmética
 
-rest=$((num1 - num2))
+sum=$((num1 + num2))
 
 #Mostrar el resultado
 
-echo "La resta de $num1 y $num2 es: $rest"
+echo "La suma de $num1 y $num2 es: $sum"
 
 echo "Presiona ENTER para continuar...."
 
